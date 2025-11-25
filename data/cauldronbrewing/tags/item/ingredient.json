@@ -1,0 +1,11 @@
+{
+    "values": [
+        "#cauldronbrewing:modifiers/duration",
+        "#cauldronbrewing:modifiers/lingering",
+        "#cauldronbrewing:modifiers/potency",
+        "#cauldronbrewing:modifiers/splash",
+        "#cauldronbrewing:modifiers/transmutor",
+        "#cauldronbrewing:modifiers/activation",
+        "#cauldronbrewing:effect"
+    ]
+}
