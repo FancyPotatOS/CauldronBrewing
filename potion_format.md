@@ -29,6 +29,9 @@ A quick FYI: The **potency** modifier is a float, and is rounded down after the 
 
 - **color** (int)
     - The integer value of the potion color
+    - The wiki has a converter [here](https://minecraft.wiki/w/Potion#Data_values:~:text=N/A-,Item%20data,-%5Bedit%20%7C)
+        - This is under the 'Calculate representation of color' section
+        - Use the 'Decimal' value
 
 - **maximums**
     - A compound describing the maximum modifiers that can be applied

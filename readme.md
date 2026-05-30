@@ -7,7 +7,7 @@
 
 A way to brew potions using the cauldron like a witch, and allowing custom potion recipes!
 
-To brew a potion, throw the ingredient into a cauldron with the water bottle/potion, and activate it by dropping in an amethyst shard
+To brew a potion, throw the ingredient into a water cauldron with the water bottle/potion, and activate it by dropping in an amethyst shard
 
 <details>
     <summary>Recipes</summary>
