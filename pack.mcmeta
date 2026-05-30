@@ -1,8 +1,8 @@
 {
   "pack": {
-    "pack_format": 101,
+    "description": "FancyPotatOS' Cauldron Brewing Datapack",
+    "max_format": 101,
     "min_format": [ 101, 1 ],
-    "max_format": 101
-    "description": "FancyPotatOS' Cauldron Brewing Datapack"
+    "pack_format": 101
   }
 }
